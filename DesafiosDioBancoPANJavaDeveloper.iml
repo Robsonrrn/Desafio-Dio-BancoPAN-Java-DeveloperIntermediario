@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Animal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Conta espacos e vogais" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Quitando do seu Ze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Taxa de imposto de renda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Triangulo" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
